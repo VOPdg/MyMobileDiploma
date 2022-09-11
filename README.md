@@ -12,7 +12,7 @@
 - <a href="#robot-сборки-в-Jenkins">Сборка в Jenkins</a>
 - <a href="#classical_building-отчет-browserstack">Отчет BrowserStack</a>
 - <a href="#bar_chart-allure-отчет">Allure отчет</a>
-- <a href="#hammer-test-ops-отчет">Allure Test Ops отчет</a>
+- <a href="#hammer-Allure-Test-Ops-отчет">Allure Test Ops отчет</a>
 - <a href="#robot-отчет-в-telegram">Отчет в Telegram</a>
 - <a href="#film_projector-видео-пример-прохождения-тестов">Видео пример прохождения тестов</a>
 
