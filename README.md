@@ -8,11 +8,11 @@
 ## :page_with_curl: Содержание:
 
 - <a href="#computer-технологии-и-инструменты">Технологии и инструменты</a>
-- <a href="#arrow_forward-запуск-из-терминала">Запуск из терминала</a>
-- <a href="#electric_plug-сборка-в-Jenkins">Сборка в Jenkins</a>
-- <a href="#👽-отчет-browserstack">Отчет BrowserStack</a>
-- <a href="#open_book-allure-отчет">Allure отчет</a>
-- <a href="#hammer-allure-test-ops-отчет">Allure Test Ops отчет</a>
+- <a href="#keyboard-запуск-из-терминала">Запуск из терминала</a>
+- <a href="#robot-сборки-в-Jenkins">Сборка в Jenkins</a>
+- <a href="#classical_building-отчет-browserstack">Отчет BrowserStack</a>
+- <a href="#classical_building-allure-отчет">Allure отчет</a>
+- <a href="#hammer-test-ops-отчет">Allure Test Ops отчет</a>
 - <a href="#robot-отчет-в-telegram">Отчет в Telegram</a>
 - <a href="#film_projector-видео-пример-прохождения-тестов">Видео пример прохождения тестов</a>
 
