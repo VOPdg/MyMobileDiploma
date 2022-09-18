@@ -1,7 +1,7 @@
 package helpers;
 
 import org.aeonbits.owner.ConfigFactory;
-import owner.BrowserStackConfig;
+import config.BrowserStackConfig;
 
 import static io.restassured.RestAssured.given;
 import static java.lang.String.format;

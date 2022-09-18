@@ -53,9 +53,4 @@ public class TestBase {
         Attach.video(sessionId);
         step("Close driver", Selenide::closeWebDriver);
     }
-
 }
-
-
-
-
